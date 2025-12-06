@@ -34,7 +34,7 @@ pinout:
 
   # Outputs
   uo[0]: "q"
-  uo[1]: ""
+  uo[1]: "qbar"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
